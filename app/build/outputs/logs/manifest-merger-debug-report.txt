@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7b3b499a57c92fcfd6998b28d9cadabe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e2b99e45c78c0fd5b2eb1d9e5386edfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priessel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66958acdff02c0b56182d2444ba61278/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7ea405b46a3a1975db79a8753d1c2f4e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dec0cc1a703c04db2578c8354878374e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8cb20b440c149143c7d9c7fd38519db1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/98db8a3fecf68367d14a9e527b8e0dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/351557c3db806381fd5176917a1cf0eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e4f91fec556294959e77126c406ce77c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/dd49e7f1f9b815bf6115160746f9e6a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c0a726bc765f03927dfe737a6f893e00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/4d622991ac91f0f97d1f7745622d8a00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4100110a19c3d9b8ea254711ddf99763/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ac64feae65d4524b94dc6b0d7c98201/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bc6f7f7b2d0d9d4f2b119dc0e0bc187f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5c5ec748e3daf9c5ae8b5b6abe3c3013/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7eacc563ac0877431eda83fe8d70d109/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f94ca4c14e1732f907dfce401b14020b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/17526898a08c37566afcdce19f2e74c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bb3ba99f9adb1a469bfd8814b56e00f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0c049b460ebc28159f4a2a18cf13b31b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/43741b903978313df97917226667f85d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f8bb0ad95417608f105504b9aaf6748a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0f3fcfadea49f8947bae056ececf82e2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b06978839c1a4a228931ab5defcf362f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/621c6b7972ce06189d5f65230ac22548/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/23a19e9ae328da3d6e5bb12e7691ffe5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9babb28e58603918a2dc6f067aadb711/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3715a2f59bd85efe100531b113a0394b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0f1188263bb081861e09c8152cb66b08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/570de8c7404da45ec8dcb3cab37258a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b000b0d2ff88b06f46c55e98acbe2a48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28b643ff6deaa3e780363d415d82578d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:4:18-60
+application
+ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7b3b499a57c92fcfd6998b28d9cadabe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7b3b499a57c92fcfd6998b28d9cadabe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priessel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66958acdff02c0b56182d2444ba61278/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priessel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66958acdff02c0b56182d2444ba61278/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f8bb0ad95417608f105504b9aaf6748a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f8bb0ad95417608f105504b9aaf6748a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0f3fcfadea49f8947bae056ececf82e2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0f3fcfadea49f8947bae056ececf82e2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f8bb0ad95417608f105504b9aaf6748a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.okhttp_mvvm_implementation.MainActivity
+ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7b3b499a57c92fcfd6998b28d9cadabe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7b3b499a57c92fcfd6998b28d9cadabe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e2b99e45c78c0fd5b2eb1d9e5386edfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e2b99e45c78c0fd5b2eb1d9e5386edfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priessel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66958acdff02c0b56182d2444ba61278/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priessel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/66958acdff02c0b56182d2444ba61278/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7ea405b46a3a1975db79a8753d1c2f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7ea405b46a3a1975db79a8753d1c2f4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dec0cc1a703c04db2578c8354878374e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dec0cc1a703c04db2578c8354878374e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8cb20b440c149143c7d9c7fd38519db1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8cb20b440c149143c7d9c7fd38519db1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/98db8a3fecf68367d14a9e527b8e0dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/98db8a3fecf68367d14a9e527b8e0dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/351557c3db806381fd5176917a1cf0eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/351557c3db806381fd5176917a1cf0eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e4f91fec556294959e77126c406ce77c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e4f91fec556294959e77126c406ce77c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/dd49e7f1f9b815bf6115160746f9e6a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/dd49e7f1f9b815bf6115160746f9e6a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c0a726bc765f03927dfe737a6f893e00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c0a726bc765f03927dfe737a6f893e00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/4d622991ac91f0f97d1f7745622d8a00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/4d622991ac91f0f97d1f7745622d8a00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4100110a19c3d9b8ea254711ddf99763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4100110a19c3d9b8ea254711ddf99763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ac64feae65d4524b94dc6b0d7c98201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ac64feae65d4524b94dc6b0d7c98201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bc6f7f7b2d0d9d4f2b119dc0e0bc187f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bc6f7f7b2d0d9d4f2b119dc0e0bc187f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5c5ec748e3daf9c5ae8b5b6abe3c3013/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5c5ec748e3daf9c5ae8b5b6abe3c3013/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7eacc563ac0877431eda83fe8d70d109/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7eacc563ac0877431eda83fe8d70d109/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f94ca4c14e1732f907dfce401b14020b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f94ca4c14e1732f907dfce401b14020b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/17526898a08c37566afcdce19f2e74c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/17526898a08c37566afcdce19f2e74c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bb3ba99f9adb1a469bfd8814b56e00f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bb3ba99f9adb1a469bfd8814b56e00f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0c049b460ebc28159f4a2a18cf13b31b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0c049b460ebc28159f4a2a18cf13b31b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/43741b903978313df97917226667f85d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/43741b903978313df97917226667f85d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f8bb0ad95417608f105504b9aaf6748a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f8bb0ad95417608f105504b9aaf6748a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0f3fcfadea49f8947bae056ececf82e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0f3fcfadea49f8947bae056ececf82e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b06978839c1a4a228931ab5defcf362f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b06978839c1a4a228931ab5defcf362f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/621c6b7972ce06189d5f65230ac22548/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/621c6b7972ce06189d5f65230ac22548/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/23a19e9ae328da3d6e5bb12e7691ffe5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/23a19e9ae328da3d6e5bb12e7691ffe5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9babb28e58603918a2dc6f067aadb711/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9babb28e58603918a2dc6f067aadb711/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3715a2f59bd85efe100531b113a0394b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3715a2f59bd85efe100531b113a0394b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0f1188263bb081861e09c8152cb66b08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0f1188263bb081861e09c8152cb66b08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/570de8c7404da45ec8dcb3cab37258a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/570de8c7404da45ec8dcb3cab37258a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b000b0d2ff88b06f46c55e98acbe2a48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b000b0d2ff88b06f46c55e98acbe2a48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28b643ff6deaa3e780363d415d82578d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/priessel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28b643ff6deaa3e780363d415d82578d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/priessel/OkHttp_MVVM_Implementation/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/priessel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/2cc6f8756592f0f25da55f57751b20ee/AndroidManifest.xml:24:13-83
